@@ -37,6 +37,10 @@ cover_image: https://imgur.com/67WlRoB.png
 
 ## Additional Resources / Info
 
+<a href="https://i.imgur.com/4PA6bMi.mp4">
+    <img src="https://imgur.com/vCoiywg.png" alt="In Action">
+</a>
+
 #### Let's handson TheActionDev
 
 🥺 Seriously, You are waiting for [#hacktoberfest](https://hacktoberfest.digitalocean.com/) for submitting **Pull Request**. If not **fill** below Emoji Table with your **favourite emoji**. You get more info [here](https://github.com/ful1e5/dev.to/blob/main/articles/Actions_Hackathon.md#lets-handson-theactiondev) inside **Source Code**.
