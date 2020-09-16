@@ -1,6 +1,6 @@
 ---
 title: TheActionDev 🧑‍💻
-published: false
+published: true
 description: Submission for actionshackathon
 series: TheActionDev
 tags: actionshackathon, typescript, github, showdev
