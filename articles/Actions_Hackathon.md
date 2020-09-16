@@ -37,11 +37,9 @@ cover_image: https://imgur.com/67WlRoB.png
 
 ## Additional Resources / Info
 
-<!-- {% youtube xxxx %} -->
-
 #### Let's handson TheActionDev
 
-🥺 Seriously, You are waiting for [#hacktoberfest](https://hacktoberfest.digitalocean.com/) for submitting **Pull Request**. If not **fill** below Emoji Table with your **favourite emoji**. You get more info [here]().
+🥺 Seriously, You are waiting for [#hacktoberfest](https://hacktoberfest.digitalocean.com/) for submitting **Pull Request**. If not **fill** below Emoji Table with your **favourite emoji**. You get more info [here](https://github.com/ful1e5/dev.to/blob/main/articles/Actions_Hackathon.md#lets-handson-theactiondev) inside **Source Code**.
 
 <!-- Contribute to Emoji Table -->
 <!-- - Create a new row if not have space -->
