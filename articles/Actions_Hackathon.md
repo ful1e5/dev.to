@@ -45,7 +45,7 @@ cover_image: https://imgur.com/67WlRoB.png
 <!-- - Create a new row if not have space -->
 <!-- - Add DEV/GitHub username after your fav_emoji in Pull Request Name, example " 😍 ful1e5 " -->
 <!-- - Duplicate Emoji allowed -->
-<!-- - Take Cup of coffee ☕ until Maintainer merge your Pull Request   -->
+<!-- - Take Cup of coffee ☕. Maintainer merge your Pull Request soon -->
 
 |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
