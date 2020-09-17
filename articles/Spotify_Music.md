@@ -1,6 +1,6 @@
 ---
 title: Ninja is listening... 🎶
-published: false
+published: true
 description: 😎😎😎
 series: TheActionDev
 tags: typescript, github, showdev
