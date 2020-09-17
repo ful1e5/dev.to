@@ -19,6 +19,6 @@ tags: typescript, github, showdev
         <img src="https://imgur.com/MyT0OfL.png" width="40" height="40" alt="Kaiz's Spotify Playlist">
     </a>
     <a href="https://twitter.com/ful1e5">
-        <img src="https://github.com/ful1e5/ful1e5/blob/master/assets/Twitter.svg" width="40" height="40" alt="Kaiz's Twitter Profile">
+        <img src="https://imgur.com/gMYWjzn.png" width="40" height="40" alt="Kaiz's Twitter Profile">
     </a>
 <div>
