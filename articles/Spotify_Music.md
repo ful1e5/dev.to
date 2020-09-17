@@ -14,11 +14,11 @@ tags: typescript, github, showdev
     </a>
 </p>
 
-# Playlist
-
-<!-- Spotify Playlist -->
 <div align="center" style="display: flex; justify-content: space-between;">
     <a href="https://open.spotify.com/user/kuabsnz43myhxext1652831e7?si=hVzfPDYbQe2r7Xnj3-UeHw">
         <img src="https://imgur.com/MyT0OfL.png" width="40" height="40" alt="Kaiz's Spotify Playlist">
+    </a>
+    <a href="https://twitter.com/ful1e5">
+        <img src="https://github.com/ful1e5/ful1e5/blob/master/assets/Twitter.svg" width="40" height="40" alt="Kaiz's Twitter Profile">
     </a>
 <div>
