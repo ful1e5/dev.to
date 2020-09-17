@@ -1,7 +1,7 @@
 ---
 title: Ninja listening now 🎶
 published: false
-description: Submission for actionshackathon
+description: 😎😎😎
 series: TheActionDev
 tags: typescript, github, showdev
 ---
