@@ -18,7 +18,7 @@ cover_image: https://imgur.com/67WlRoB.png
 
 ### What is TheActionDev 🧑‍💻 ?
 
-**TheActionDev** is Github Action that allows you to write & maintain [dev.to](https://dev.to/) **articles** without touching the `dev.to` UI. This action is initiated in **[#ActionsHackathon](https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn)** and is using **[DEV API]** under the hood. This action is scanning your **Github Repository** based on `directory` [input](#inputs) and finds articles based on the **[Jekyll front matter](https://jekyllrb.com/docs/front-matter/)** in `markdown` files.
+**TheActionDev** is Github Action that allows you to write & maintain [dev.to](https://dev.to/) **articles** without touching the `dev.to` UI. This action is initiated in **[#ActionsHackathon](https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn)** and is using **[DEV API](https://docs.dev.to/api/)** under the hood. This action is scanning your **Github Repository** based on `directory` [input](#inputs) and finds articles based on the **[Jekyll front matter](https://jekyllrb.com/docs/front-matter/)** in `markdown` files.
 
 ### Benefits :
 
@@ -43,7 +43,7 @@ cover_image: https://imgur.com/67WlRoB.png
 
 #### Let's handson TheActionDev
 
-🥺 Seriously, you should wait for the [#hacktoberfest](https://hacktoberfest.digitalocean.com/) to submit **pull requests**. 
+🥺 Seriously, you should wait for the [#hacktoberfest](https://hacktoberfest.digitalocean.com/) to submit **pull requests**.
 If not, **fill** in below the "Emoji Table" with your **favourite emoji**. You get more info [here](https://github.com/ful1e5/dev.to/blob/main/articles/Actions_Hackathon.md#lets-handson-theactiondev) inside the **Source Code** category.
 
 <!-- Contribute to Emoji Table -->
@@ -54,5 +54,5 @@ If not, **fill** in below the "Emoji Table" with your **favourite emoji**. You g
 
 |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 😍  |  ✒   |     |     |     |     |     |     |     |     |     |     |     |
+| 😍  |  ✒  |     |     |     |     |     |     |     |     |     |     |     |
 |     |     |     |     |     |     |     |     |     |     |     |     |     |
