@@ -1,7 +1,5 @@
-# TheActionDev-template
+# dev.to/ful1e5
 
-⚡ Start writing dev.to articles with TheActionDev
-
-<!-- Don't Forget to add Your TheActionDev Badge here -->
+🤫 Ninja's [dev.to](dev.to/ful1e5/) articles **secret**
 
 ![TheActionDev Sync](https://github.com/ful1e5/TheActionDev-template/workflows/TheActionDev%20Sync/badge.svg)
