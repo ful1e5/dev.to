@@ -16,4 +16,4 @@ jobs:
         with:
           api-key: ${{ secrets.DEVTO_API_KEY }} # Store your 'api-key' in Github Secret
           directory: ./articles # Your article directory
-          ignore: Ignore-me.md # Markdown file you wan't to ignore. Multple files separated by ,(comma)
+          ignore: __TEMPLATE__.md # Markdown file you wan't to ignore. Multple files separated by ,(comma)
