@@ -5,6 +5,7 @@ description: Submission for actionshackathon
 series: TheActionDev
 tags: actionshackathon, typescript, github, showdev
 cover_image: https://imgur.com/67WlRoB.png
+canonical_url: https://github.com/ful1e5/dev.to/blob/main/articles/Actions_Hackathon.md
 ---
 
 #### About 💬
