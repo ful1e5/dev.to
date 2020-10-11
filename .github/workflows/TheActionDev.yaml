@@ -11,9 +11,9 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v2
 
-      - name: Sycing Article to dev.to
+      - name: Syncing Article to dev.to
         uses: ful1e5/TheActionDev@v2
         with:
           api-key: ${{ secrets.DEVTO_API_KEY }} # Store your 'api-key' in Github Secret
-          directory: ./articles # Your article directory
-          ignore: __TEMPLATE__.md # Markdown file you wan't to ignore. Multple files separated by ,(comma)
+          directory: ./docs # Your article directory
+          ignore: __TEMPLATE__.md # Markdown file you want to ignore. Multiple files separated by ,(comma)
