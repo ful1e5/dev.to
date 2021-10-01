@@ -1,0 +1,19 @@
+name: TheActionDev
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  operations:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Synchronising article with dev.to
+        uses: ful1e5/TheActionDev@v2
+        with:
+          api-key: ${{ secrets.DEVTO_API_KEY }}
+          directory: ./docs
+          ignore: __TEMPLATE__.md

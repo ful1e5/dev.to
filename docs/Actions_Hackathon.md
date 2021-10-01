@@ -19,7 +19,7 @@ canonical_url: https://github.com/ful1e5/dev.to/blob/main/articles/Actions_Hacka
 
 ### What is TheActionDev 🧑‍💻 ?
 
-**TheActionDev** is Github Action that allows you to write & maintain [dev.to](https://dev.to/) **articles** without touching the `dev.to` UI. This action is initiated in **[#ActionsHackathon](https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn)** and is using **[DEV API](https://docs.dev.to/api/)** under the hood. This action is scanning your **Github Repository** based on `directory` [input](#inputs) and finds articles based on the **[Jekyll front matter](https://jekyllrb.com/docs/front-matter/)** in `markdown` files.
+**TheActionDev** is Github Action that allows you to write & maintain [dev.to](https://dev.to/) **articles** without touching the `dev.to` UI. This action is initiated in **[#ActionsHackathon](https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn)** and is using **[DEV API](https://docs.dev.to/api/)**. This action is scan your **Github Repository** based on `directory` [input](#inputs) and finds articles based on the **[Jekyll front matter](https://jekyllrb.com/docs/front-matter/)** in `markdown` files.
 
 ### Benefits :
 
