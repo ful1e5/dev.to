@@ -1,6 +1,6 @@
 ---
 title: I created nonsense 'Hello World' program with GitHub Action and JavaScript. (which failed)
-published: false
+published: true
 description: Submission for actionshackathon21
 tags: actionshackathon21, javascript, github, opensource
 cover_image: https://imgur.com/Uh3jdPJ.png
