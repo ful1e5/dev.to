@@ -12,7 +12,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Synchronising article with dev.to
-        uses: ful1e5/TheActionDev@v2
+        uses: ful1e5/TheActionDev@v3
         with:
           api-key: ${{ secrets.DEVTO_API_KEY }}
           directory: ./docs
