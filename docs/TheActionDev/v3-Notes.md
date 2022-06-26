@@ -1,6 +1,6 @@
 ---
 title: TheActionDev - v3
-published: false
+published: true
 description: v3 Release notes for 'TheActionDev' GitHub Action
 series: TheActionDev
 tags:
