@@ -1,6 +1,6 @@
 ---
 title: Let's give recognition to those supporting our work on GitHub Sponsors.
-published: false
+published: true
 description: I created "Sponsor Spotlight" for randomly shoutout Github sponsors through dynamic image(SVG) in README.md.
 series: sponsor-spotlight
 tags:
