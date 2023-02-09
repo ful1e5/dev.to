@@ -37,7 +37,7 @@ However, despite the convenience of these tools, I found some visual glitches to
 
 Furthermore, slow response times can result in broken sponsor avatars appearing on certain requests, leading to an unprofessional appearance for your project.
 
-To resolve this issue, I decided to take the time to improve the situation. I was recently accepted into the GitHub Sponsorship Program and had already started receiving my first sponsorship, so I wanted to ensure that everything looked as professional as possible. A big shoutout goes to @splooge for being my first sponsor!
+To resolve this issue, I decided to take the time to improve the situation. I was recently accepted into the GitHub Sponsorship Program and had already started receiving my first sponsorship, so I wanted to ensure that everything looked as professional as possible. A big shoutout goes to [@splooge](https://github.com/splooge) for being my first sponsor!
 
 With the goal of making things better, I created a public repository on GitHub called "Sponsor Spotlight". This repository generates a dynamic image (in the form of an SVG) using a serverless function and React. The image displays a random sponsor with each request, and has a subtle animation that gives your project a unique and lively look. It took me a few days and less than a week to make the code compatible with all GitHub users and to hand designed the cute Octocat icons into the SVG format.
 
